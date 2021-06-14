@@ -3,3 +3,19 @@
 4485956251457965
 4132104127113549
 4716486955881766
+
+
+SG-Nric-Name
+NRIC S3167579J
+Benedict Seah
+
+SG-Nric-Name-Address
+NRIC S3167579J
+Benedict Seah
+Address: 210 Middle Road, #01-01 Singapore 188994
+
+SG-Nric-Name-DOB
+NRIC S3167579J
+Benedict Seah
+DOB Thursday, 8 October 1989
+
